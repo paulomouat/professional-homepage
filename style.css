@@ -1,0 +1,43 @@
+body {
+    font-size: 16px;
+    font-family: Helvetica, Arial, Sans-Serif;
+    color: #564b47;
+}
+
+a {
+	color: #908b87;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#page {
+	padding: 100px;
+}
+
+#header {
+}
+
+#footer {
+}
+
+#content {
+    max-width: 400px;
+}
+
+.heading1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.heading2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #908b87;
+}
+
+.footer {
+    font-size: 12px;	
+}
