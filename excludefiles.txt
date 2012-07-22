@@ -1,0 +1,4 @@
+*.sh
+._*
+*.esproj
+excludefiles.txt
